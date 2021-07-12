@@ -1,0 +1,28 @@
+body {
+  width: 60%;
+  height: 100vh;
+  margin: auto;
+  text-align: center;
+  background: radial-gradient(white, #d3d3d3);
+}
+input {
+  padding: 8px 8px;
+  width: 60%;
+  font-size: 15px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 13px 22px;
+  border-radius: 5px;
+  border: none;
+  font-size: 17px;
+  color: white;
+  background-color: #279f27;
+}
+button:hover {
+  cursor: pointer;
+}
+p {
+  font-size: 22px;
+}
